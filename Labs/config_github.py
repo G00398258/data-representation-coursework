@@ -1,3 +1,3 @@
 config = {
-    "apiKey": "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"
+    "apiKey": "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"
 }
